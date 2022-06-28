@@ -1,6 +1,6 @@
 ### Hi there, I'm Victor 👋
 
-I am a data scientist and an enthusiast of software craftsmanship and design. I strive for writing code that is both useful and beautiful to look at, or as I like to call it, [katana-code](https://victorvalentee.github.io/#katana-code-principles).
+I am a data scientist and an enthusiast of software craftsmanship and design. I strive for writing code that is both useful and beautiful to look at, or as I like to call it, <a href="https://victorvalentee.github.io/#katana-code-principles" target="_blank">katana-code</a>.
 
 
 #### :telescope: Current Projects
