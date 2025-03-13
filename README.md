@@ -4,7 +4,7 @@ I'm a data engineer and an enthusiast of software craftsmanship and design. I st
 
 
 #### :telescope: Current Projects
-I'm currently a Data Engineer @ MaisTODOS. My primary role is to the design and code data ingestion pipelines for the datalake product.
+I'm currently a Data Engineer @ Wildlife Studios.
 
 
 #### :newspaper: Facts
