@@ -4,7 +4,7 @@ I'm a data engineer and an enthusiast of software craftsmanship and design. I st
 
 
 #### :telescope: Current Projects
-I'm currently a Data Engineer @ Wildlife Studios.
+I'm currently a Senior Data Engineer @ Telus Digital.
 
 
 #### :newspaper: Facts
